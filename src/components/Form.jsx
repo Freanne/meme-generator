@@ -37,7 +37,7 @@ const Form = () => {
     return (
       <main>
         
-       <div  className="grid grid-cols-2 grid-rows-2 justify-items-center m-10 ">
+       <div  className="grid grid-cols-2 grid-rows-2 justify-items-center ">
         <div>
             <label htmlFor="bottom-text" className="m-4"> Top text  
             <input 
